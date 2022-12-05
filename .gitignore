@@ -1,0 +1,8 @@
+.vs
+.idea
+.vscode
+tmp
+out
+build*
+bin
+*.log
